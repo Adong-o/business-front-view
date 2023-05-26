@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+#title {
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: monospace;
+}
+.centered {
+    margin: 0 auto;
+    align-items: center;
+    align-self: center;
+}
+.start-button {
+    background-color: rgb(44, 39, 39);
+    color: aliceblue;
+    height: 40px;
+    border-radius: 10px;
+    width: 120px;
+}
+.start-button:hover {
+    background-color: aliceblue;
+    color: rgb(44, 39, 39);
+}
